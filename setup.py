@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name='Project',
+    name='math-quiz',
     version='',
     packages=[''],
     url='',
     license='',
-    author='Benutze',
+    author='AhadAshfaq',
     author_email='',
     description=''
 )
